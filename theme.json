@@ -1728,7 +1728,13 @@
       "BellIcon": "SC_ICON_DEFAULT",
       "img_account_sync_github_light": "SC_ICON_DEFAULT",
       "img_domain_light": "SC_ICON_DEFAULT",
-      "img_domain_dark": "SC_ICON_DEFAULT"
+      "img_domain_dark": "SC_ICON_DEFAULT",
+      "QuoteIcon": "SC_ICON_DEFAULT"
     }
-  }
+  },
+  "authors": [
+    {
+      "name": "benjii"
+    }
+  ]
 }
